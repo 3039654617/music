@@ -1,0 +1,20 @@
+[
+    {
+        "image": "../source/3.jpg",
+        "audioSrc": "../source/song_3.flac",
+        "name": "白月光与朱砂痣",
+        "album": "白月光与朱砂痣",
+        "singer": "大籽",
+        "duration": "204",
+        "isLike": "true"
+    },
+    {
+        "image": "../source/4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "星辰大海",
+        "album": "星辰大海",
+        "singer": "黄霄雲",
+        "duration": "207",
+        "isLike": "true"
+    }
+]
